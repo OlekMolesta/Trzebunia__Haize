@@ -65,13 +65,12 @@ h1, h2, h3, h4, h5, h6 {
     background: url(../imeges/Drobny/drobny__lewo.jpg) center no-repeat;
     background-size: cover;
 
-    transition: background .5s liear;
+    transition: background .5s linear;
 }
 
 .intro__foto:hover {
     background: url(../imeges/Drobny/drobny__twarz.jpg) center no-repeat;
     background-size: cover;
-    
 }
 
 /* Header */
