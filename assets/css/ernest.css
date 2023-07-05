@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
     background: url(../imeges/Ernest/ernest__czapka.jpg) center no-repeat;
     background-size: cover;
 
-    transition: background .5 linear;
+    transition: background .5s linear;
 }
 
 .intro__foto:hover {
