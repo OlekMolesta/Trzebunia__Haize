@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName 'Protected Area'
-AuthUserFile /OlekMolesta/Trzebunia__Haize/.htpasswd
+AuthUserFile /olekmolesta.github.io/Trzebunia__Haize/.htpasswd
 Require valid-user 
