@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName 'Protected Area'
+AuthUserFile /OlekMolesta/Trzebunia__Haize/.htpasswd
+Require valid-user 
