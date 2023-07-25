@@ -165,6 +165,13 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #222222c0;
 }
 
+.disqus_thread {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+
 /*@Media*/
 @media screen and (max-width: 1245px) {
 
